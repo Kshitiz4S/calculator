@@ -28,4 +28,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: kshitiz182/static:v1.0
+          tags: kshitiz182/calculator:v1.0
